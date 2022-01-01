@@ -1,5 +1,4 @@
 # 2 epochs
-
 ![image](https://user-images.githubusercontent.com/71679642/147840438-f3e1df38-94f1-494a-85a8-dd1e5d90137c.png)
 
 # 4 epochs
@@ -27,4 +26,4 @@
 ![image](https://user-images.githubusercontent.com/71679642/147842453-7a1a7a03-8387-4366-bb42-72425333603c.png)
 
 # 60 epochs
-en progreso...
+![image](https://user-images.githubusercontent.com/71679642/147858279-f06821c0-6236-4141-bc87-21f2e6974984.png)
